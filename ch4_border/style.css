@@ -1,0 +1,26 @@
+h1 {
+  border: solid blue 10px;
+  border-radius: 15px;
+  /* border-top-style: solid;
+  border-right-style: dashed;
+  border-bottom-style: dotted;
+  border-left-style: double;
+  border-top-color: green;
+  border-right-color: black;
+  border-bottom-color: blue;
+  border-left-color: orange; */
+
+  outline-style: double;
+  outline-color: red;
+  outline-width: 10px;
+  outline-offset: 10px;
+  margin: 50px;
+
+}
+span {
+  border-style: solid;
+  border-width: 10px;
+  border-color: #ff0000;
+  border-radius: 10px;
+ 
+}
