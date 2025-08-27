@@ -1,0 +1,18 @@
+h1 {
+    /* Hexadecimal color code */
+    color: #0000FF;
+    
+    /* RGB color code */
+    color: rgb(0, 0, 255);
+
+    /* HSL color code */
+    color: hsl(240, 100%, 50%);
+
+    /* Named color */
+    color: blue; 
+
+    /* Alpha color code */
+    color: rgba(0, 0, 255, 0.5);
+
+    /* CSS comment */
+}

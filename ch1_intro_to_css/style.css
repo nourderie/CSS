@@ -1,0 +1,17 @@
+/* External Css */
+
+h1 {
+      color: blue; 
+      text-align: center;
+      text-decoration: underline;
+    }
+
+    #The_first_p {
+      color: green;
+    }
+.make_text_big {
+      font-size: 20
+      px;
+      background-color: yellow;
+      
+    }
